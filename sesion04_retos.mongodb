@@ -1,0 +1,14 @@
+// Select the database to use.
+use('sample_mflix');
+
+// ******************** Reto 1 *********************
+//db.comments.find({}, {"date": 1, "name": 1, "text": 1})
+
+//db.movies.find({}, {"title": 1, "cast": 1, "year": 1})
+
+//db.movies.find({}, {"name": 1, "password": 1})
+
+
+// ******************** Reto 2 *********************
+
+//db.comments.find({"name": "Greg Powell"})
